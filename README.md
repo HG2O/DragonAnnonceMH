@@ -1,5 +1,6 @@
 # 🐉 DragonAnnounce
-> Plugin Leaves pour annoncer en grande pompe la mort de l'Ender Dragon sur ton serveur Minecraft.
+> Plugin d'annonce quand l'ender dragon est mort pour annoncer en grande pompe la mort de l'Ender Dragon sur ton serveur Minecraft.
+> Il fonctionne avec Leaves 1.21.4
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen?style=flat-square&logo=minecraft)
 ![Leaves](https://img.shields.io/badge/Leaves-Compatible-green?style=flat-square)
